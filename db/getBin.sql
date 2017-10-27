@@ -1,0 +1,1 @@
+SELECT * FROM shelves WHERE shelf = $1 AND bin = $2;

@@ -1,0 +1,8 @@
+.shelf{
+    height: 60px;
+    margin-top: 20px;
+    width: 500px;
+    background:  #D34735;
+    color: white;
+    border-radius: 2px;
+  }
